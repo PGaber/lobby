@@ -1,0 +1,15 @@
+*{
+  font-family: Arial;
+}
+main{
+  margin: 10px;
+}
+.blank{
+  width:auto;
+  height: 10px;
+}
+a{
+  color: white;
+  cursor: default;
+  font-size: 5rem;
+}
